@@ -1,13 +1,13 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1701907200&v=beta&t=OD7XwKW1pKpQj8FiIhKo8OKHi1iujMZ_eGf9A0DkI-U)](http://MohdSadique08.io)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1701907200&v=beta&t=OD7XwKW1pKpQj8FiIhKo8OKHi1iujMZ_eGf9A0DkI-U)](http://tonystarkk08.io)
 
 <h1 align="center">Hi 👋, I'm Mohammad Sadique</h1>
 <h3 align="center">A passionate Cloud Native Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-8928572.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystarkk08&label=Profile%20views&color=0e75b6&style=flat" alt="MohdSadique08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystarkk08&label=Profile%20views&color=0e75b6&style=flat" alt="tonystarkk08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohdSadique08" alt="MohdSadique08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonystarkk08" alt="tonystarkk08" /></a> </p>
 
 - 🌱 I’m currently learning **Enterprise level development**
 
@@ -26,6 +26,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohdSadique08&show_icons=true&locale=en&layout=compact" alt="MohdSadique08" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonystarkk08&show_icons=true&locale=en&layout=compact" alt="tonystarkk08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdSadique08&" alt="MohdSadique08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdSadique08&" alt="tonystarkk08" /></p>
