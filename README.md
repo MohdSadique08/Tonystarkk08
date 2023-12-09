@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystarkk08&label=Profile%20views&color=0e75b6&style=flat" alt="tonystarkk08" /> </p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonystarkk08" alt="tonystarkk08" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonystarkk08" alt="tonystarkk08" /></a> </p>
 
 - 🌱 I’m currently learning **Enterprise level development**
 
